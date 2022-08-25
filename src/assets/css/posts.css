@@ -1,0 +1,19 @@
+.pagina{
+    padding-left: 40px;
+    padding-top: 20px;
+    width: 190vh;
+}
+.Posts{
+    font-size: 40px;
+    color: black;
+    margin-left: 9px;
+    background-color: rgb(143, 143, 143);
+    padding: 40px;
+}
+.Posts404{
+    font-size: 80px;
+    color: black;
+    margin-left: 9px;
+    background-color: rgb(143, 143, 143);
+    padding: 40px;
+}

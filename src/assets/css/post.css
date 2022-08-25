@@ -1,0 +1,104 @@
+.Po{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 80px;
+}
+body{
+    background-color: rgb(221, 221, 221);
+}
+.p{
+    display: flex;
+    justify-content: space-between;
+    width: 70vh;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.p1{
+    display: flex;
+    justify-content: space-between;
+    width: 70vh;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 14px;
+    margin-right: 28.8vh;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Franco{
+    margin-left: 20px;
+    margin-top: 25px;
+    font-size: 25px;
+    color: black;
+}
+.direito{
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.imgp{
+    width: 500px;
+}
+.datap{
+    color: black;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.nomep{
+    color: black;
+    font-size: 40px;
+    margin-top: 20px;
+}
+.descricaop{
+    color: black;
+    font-size: 22px;
+    margin-top: 20px;
+}
+@media (max-width: 1366px) {
+    .p{
+        width: 90vh;
+        flex-direction: row;
+        margin-left: 30px;
+    }
+    .p1{
+        width: 90vh;
+        flex-direction: row;
+        margin-left: 30px;
+    }
+    .Franco{
+        left: 0;
+        margin-top: 25px;
+        font-size: 45px;
+        color: black;
+    }
+    .direito{
+        margin-left: 20px;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .imgp{
+        width: 90vh;
+    }
+    .datap{
+        color: black;
+        font-size: 25px;
+        width: 90vh;
+    }
+    .nomep{
+        color: black;
+        font-size: 50px;
+        width: 90vh;
+    }
+    .descricaop{
+        color: black;
+        font-size: 36px;
+        width: 90vh;
+    }
+}

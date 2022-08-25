@@ -1,0 +1,38 @@
+*{
+    text-decoration: none;
+    color: white;
+}
+.Link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 50px;
+}
+.navbar{
+    margin-bottom: 20px;
+    padding: 15px;
+    background: rgb(84, 66, 29);
+    display: flex;
+    width: 197.8vh;
+    justify-content: space-around;
+    align-items: center;
+}
+.links{
+    display: flex;
+    width: 20%;
+    justify-content: space-around;
+    align-items: center;
+}
+.h2{
+    font-size: 1.7rem;
+}
+.navlink{
+    font-size: 18px;
+}
+@media (max-width: 956px) {
+    .navbar{
+        width: 98.47vh;
+    }
+}
