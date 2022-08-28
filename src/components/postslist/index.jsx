@@ -13,7 +13,7 @@ export default function PostList() {
                     </div>
 
                     <div className='direito'>
-                        <p className='datap'>05 de Março de 2022</p>
+                        <p className='datap'>28 de Agosto de 2022</p>
 
                         <h2 className='nomep'>Racismo Na Internet</h2>
 
@@ -34,7 +34,7 @@ export default function PostList() {
                     </div>
 
                     <div className='direito'>
-                        <p className='datap'>02 de Março de 2022</p>
+                        <p className='datap'>27 de Agosto de 2022</p>
 
                         <h2 className='nomep'>Racismo Escolar</h2>
 
@@ -55,7 +55,7 @@ export default function PostList() {
                     </div>
 
                     <div className='direito'>
-                        <p className='datap'>24 de Março de 2022</p>
+                        <p className='datap'>26 de Agosto de 2022</p>
 
                         <h2 className='nomep'>Racismo dentro do Esporte</h2>
 
