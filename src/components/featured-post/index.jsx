@@ -11,7 +11,7 @@ export default function FeaturedPost() {
                 </div>
 
                 <div className='direito'>
-                    <p className='data'>04 de Março de 2022</p>
+                    <p className='data'>29 de Agosto de 2022</p>
 
                     <h2 className='nome'>Racismo Estrutural</h2>
 
