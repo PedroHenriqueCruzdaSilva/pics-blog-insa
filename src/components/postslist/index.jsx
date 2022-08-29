@@ -80,9 +80,7 @@ export default function PostList() {
 
                             <h2 className='nomep'>Entrevista</h2>
 
-                            <p className='descricaop'>
-                                ----------------------------------
-                            </p>
+                            <p className='descricaop'>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
                             <div className='autor'>
                                 <p className='Franco'> João Góes e Lucaz Zultini</p>
