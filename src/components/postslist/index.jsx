@@ -72,7 +72,7 @@ export default function PostList() {
             <a href="https://youtu.be/sT46RVcC_Pg">
             <div className='p'>
                         <div>
-                            <img className='imgp' src="https://i0.wp.com/blog.pandape.com.br/wp-content/uploads/2022/01/7566.jpg?resize=678%2C424&ssl=1" alt="Em Breve" />
+                            <img className='imgp' src="https://www.tiktok.com/@picks.blog/video/7137472352119540997?is_from_webapp=1&sender_device=pc&web_id=7137751888498214406" alt="Em Breve" />
                         </div>
 
                         <div className='direito'>
