@@ -60,7 +60,7 @@ export default function PostList() {
                         <h2 className='nomep'>Racismo dentro do Esporte</h2>
 
                         <p className='descricaop'>
-                            Ultimamente os casos de racismo vem aumentando cada vez mais, sendo assim não seria diferente nos esporte que esta tendo...
+                            Casos de atitudes de ódio motivadas pelo preconceito racial são rotina em muitas localidades. O que historicamente deveria ter ficado no passado, com a abolição da escravatura, ressurge com força cada vez...
                         </p>
 
                         <div className='autor'>
